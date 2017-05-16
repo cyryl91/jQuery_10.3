@@ -24,3 +24,12 @@ li{
 	height: 400px;
 	
 }
+.btn {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	margin-top: 10px;
+}
+button {
+	width: 300px;
+}
