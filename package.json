@@ -1,0 +1,11 @@
+{
+  "name": "kodilla_10.3",
+  "version": "1.0.0",
+  "description": "task carousel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "domaslawski",
+  "license": "ISC"
+}
